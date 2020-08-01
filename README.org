@@ -2,3 +2,5 @@
 Sieve is a multimedia inspiration engine.
 
 Inspired by RSS, social media, and [[https://archillect.com][Archillect]].
+
+Ideas for Sieve can be found [[https://wiki.chvatal.com/posts/sieve/][on my wiki]].
