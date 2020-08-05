@@ -1,4 +1,8 @@
 #+TITLE: Sieve
+* Description
+:PROPERTIES:
+:PROJECT_DESCRIPTION:
+:END:
 Sieve is a multimedia inspiration engine.
 
 Inspired by RSS, social media, and [[https://archillect.com][Archillect]].
