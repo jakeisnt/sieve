@@ -5,7 +5,17 @@ let
   };
   haskellEnv = import "${ihp}/NixSupport/default.nix" {
     ihp = ihp;
-    haskellDeps = p: with p; [ cabal-install base wai text hlint p.ihp mmark ];
+    haskellDeps = p:
+      with p; [
+        cabal-install
+        base
+        wai
+        text
+        hlint
+        p.ihp
+        mmark
+        stylish-haskell
+      ];
     otherDeps = p:
       with p;
       [
