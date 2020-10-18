@@ -1,4 +1,8 @@
 #+TITLE: Sieve
+
+* NOTE: Tech
+I'm experimenting with different web technologies.
+This is the Reflex version of the project.
 * Description
 :PROPERTIES:
 :PROJECT_DESCRIPTION:
