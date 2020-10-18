@@ -1,4 +1,9 @@
 #+TITLE: Sieve
+
+* NOTE: Tech
+I'm experimenting with different web technologies.
+This is the IHP version of the project.
+
 * Description
 :PROPERTIES:
 :PROJECT_DESCRIPTION:
